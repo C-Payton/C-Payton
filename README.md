@@ -23,6 +23,7 @@ Some areas I specialize in are:
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="redhat" alt="redhat" width="40" height="40"/>&nbsp;
    <img src="https://iconape.com/wp-content/files/bs/350068/svg/350068.svg" title="Nagios" alt="Nagios" width="80" height="40"/>&nbsp;
+  <img src="https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/blob/master/AppDeployToolkitLogo.png" title="PSAppDeployToolkit" alt="PSAppDeployToolkit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
