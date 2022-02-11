@@ -43,6 +43,6 @@ Unless noted, all code is targeted to support latest Windows 10 OS.
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+Tools, Inspiration, Code snippets, etc.
 * [PowerShell App Deployment Toolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit)
 * [Header Vectors by Vecteezy](https://www.vecteezy.com/free-vector/header)
