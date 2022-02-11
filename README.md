@@ -13,7 +13,7 @@ Hello, I'm a Senior System Administrator with experience in System Administratio
 Some areas I specialize in are:
 * System and software automation
 * Microsoft Endpoint Configuration Manager
-* Scripting (PowerShell, PSAppDeployTookit, Windows batch, Linux Shell, etc.)
+* Scripting (PowerShell, PSAppDeployTookit, PowerCLI, Windows batch, Linux Shell, etc.)
 * Microsoft Windows desktop and server administration
 * Microsoft Hyper-V, VMware ESXi vSphere, and VMware Horizon 
 * Enterprise Linux administration (Red hat, CentOS, Rocky Linux)
@@ -28,6 +28,7 @@ Some areas I specialize in are:
    <img src="https://iconape.com/wp-content/files/bs/350068/svg/350068.svg" title="Nagios" alt="Nagios" width="80" height="40"/>&nbsp;
   <img src="https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/blob/master/AppDeployToolkitLogo.png" title="PSAppDeployToolkit" alt="PSAppDeployToolkit" width="40" height="40"/>&nbsp;
   <img src="https://docs.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
+   <img src="https://vmtoday.com/wp-content/uploads/sites/11/2009/01/powercli.png" title="PowerCLI" alt="PowerCLI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
