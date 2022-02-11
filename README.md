@@ -4,8 +4,8 @@
   </a>
 </div>
 
-Hello, I'm a Senior System Administrator with experience in System Administration, System Engineering, Project Management, and Enterprise Support.
-##
+
+Hello, I'm a Senior System Administrator with experience in System Administration, System Engineering, Project Management, and Enterprise Support.##
 
 Some areas I specialize in are:
 * System and software automation
