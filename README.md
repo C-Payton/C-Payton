@@ -9,6 +9,7 @@
 </div>
 
 Hello, I'm a Senior System Administrator with experience in System Administration, System Engineering, Project Management, and Enterprise Support.
+
 ##
 Some areas I specialize in are:
 * System and software automation
@@ -33,8 +34,8 @@ Some areas I specialize in are:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
-### Dependencies
-Unless noted, all code is targeted to support latest Windows 10 OS.
+### General Dependencies
+Unless noted, all hosted code is targeted to support latest Windows 10 OS.
 * Windows 10 21H2
 * Windows 11 (likely works but not tested)
 * Windows Server 2012+
