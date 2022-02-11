@@ -1,5 +1,5 @@
 <div id="banner">
-   <img src="https://github.com/C-Payton/C-Payton/blob/main/banner3.jpg" alt="Banner"/>
+   <img src="https://github.com/C-Payton/C-Payton/blob/main/banner.jpg" alt="Banner"/>
 </div>
 
 <div id="badge">
